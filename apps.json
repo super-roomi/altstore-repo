@@ -18,14 +18,12 @@
       "iconURL": "https://i.imgur.com/CfX8VmV.png",
       "tintColor": "#6156e2",
       "category": "other",
-      "notarized": false,
       "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://github.com/super-roomi/altstore-repo/releases/download/IPA/CapCut.12.0.Cracked.ipa",
           "size": 136900000,
           "version": "12.0",
-          "buildVersion": "123",
           "date": "2025-06-06T06:54:00+03:00",
           "localizedDescription": null,
           "minOSVersion": null
@@ -53,14 +51,12 @@
       "iconURL": "https://i.imgur.com/yyK3hj0.png",
       "tintColor": "#1cd464",
       "category": "entertainment",
-      "notarized": false,
       "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://github.com/super-roomi/altstore-repo/releases/download/IPA/Eevee.Spotify.5.8.8.9.0.26.ipa",
           "size": 84200000,
           "version": "9.0.26",
-          "buildVersion": "123",
           "date": "2025-06-06T06:58:00+03:00",
           "localizedDescription": "roomi was here :P",
           "minOSVersion": null
